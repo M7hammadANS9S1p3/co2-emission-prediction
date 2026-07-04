@@ -50,5 +50,5 @@ co2-emission-prediction/
 ## Results
 
 - Model: Linear Regression
-- R² Score: ...
-- RMSE: ...
+- R² Score: 0.81
+- RMSE: 741.07
