@@ -6,7 +6,10 @@ This project predicts vehicle CO2 emissions using machine learning techniques.
 
 ## Business Problem
 
-Governments and automotive companies need to estimate CO2 emissions based on vehicle characteristics to improve environmental sustainability.
+The objective of this project is to estimate the amount of CO2 emissions produced by a vehicle using its technical specifications.
+
+### Main Goal
+Develop a machine learning model that predicts CO2 emissions using a single independent variable.
 
 ## Dataset
 
